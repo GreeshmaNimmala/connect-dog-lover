@@ -7,6 +7,7 @@
     "snowpack": "^2.17.1"
   },
   "scripts": {
-    "build:azure": "npx snowpack build"
+    "build": "npx snowpack build",
+    "start:dev": "npx snowpack dev"
   }
 }
